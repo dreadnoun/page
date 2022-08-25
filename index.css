@@ -1,0 +1,225 @@
+@media screen and (max-width:1500px){
+    body {
+        background-color:pink;
+    }
+    #head {
+        color: palevioletred;
+        font-size: 18px;
+    }
+    label {
+        padding-left: 6px;
+        color: palevioletred;
+        font-size: 15px;
+    }
+    #input1 {
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 160px;
+        border-radius: 12%;
+        border-color: gray;
+        font-size: 12px;
+    }
+    #input2{
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 160px;
+        border-radius: 12%;
+        border-color: gray;
+        font-size: 12px;
+    }
+    #input3{
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 160px;
+        border-radius: 12%;
+        border-color: gray;
+        font-size: 12px;
+    }
+    #input4{
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 12px;
+        border-radius: 12%;
+        border-color: gray;
+        font-size: 12px;
+    }
+    #input5{
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 45px;
+        border-radius: 12%;
+        border-color: gray;
+        font-size: 12px;
+    }
+    #input6{
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 160px;
+        border-radius: 12%;
+        border-color: gray;
+        font-size: 12px;
+    }
+    .slect {
+        width: 105px;
+        background-color: rgb(172, 172, 172);
+        align-items: stretch;
+        font-size: 12px;
+    }
+    button{
+        width: 200px;
+        height: 27px;
+        border-radius: 17%;
+        border-style: none;
+        background-color: palevioletred;
+    }
+    a {
+        color: white;
+    }
+}
+@media screen and (max-width:700px){
+    body {
+        background-color:pink;
+    }
+    #head {
+        color: palevioletred;
+        font-size: 18px;
+    }
+    label {
+        padding-left: 6px;
+        color: palevioletred;
+        font-size: 25px;
+    }
+    #input1 {
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 160px;
+        border-radius: 12%;
+        border-color: gray;
+        font-size: 17px;
+    }
+    #input2{
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 160px;
+        border-radius: 12%;
+        border-color: gray;
+        font-size: 17px;
+    }
+    #input3{
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 160px;
+        border-radius: 12%;
+        border-color: gray;
+        font-size: 17px;
+    }
+    #input4{
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 12px;
+        border-radius: 12%;
+        border-color: gray;
+        font-size: 17px;
+    }
+    #input5{
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 45px;
+        border-radius: 12%;
+        border-color: gray;
+        font-size: 17px;
+    }
+    #input6{
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 160px;
+        border-radius: 12%;
+        border-color: gray;
+        font-size: 17px;
+    }
+    .slect {
+        width: 105px;
+        background-color: rgb(172, 172, 172);
+        align-items: stretch;
+        font-size: 17px;
+    }
+    button{
+        width: 200px;
+        height: 27px;
+        border-radius: 17%;
+        border-style: none;
+        background-color: palevioletred;
+    }
+    a {
+        color: white;
+    }
+}
+@media screen and (max-width:400px){
+body {
+    background-color:pink;
+}
+#head {
+    color: palevioletred;
+    font-size: 12px;
+}
+label {
+    padding-left: 6px;
+    color: palevioletred;
+}
+#input1 {
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 120px;
+    border-radius: 12%;
+    border-color: gray;
+}
+#input2{
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 120px;
+    border-radius: 12%;
+    border-color: gray;
+}
+#input3{
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 120px;
+    border-radius: 12%;
+    border-color: gray;
+}
+#input4{
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 8px;
+    border-radius: 12%;
+    border-color: gray;
+}
+#input5{
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 25px;
+    border-radius: 12%;
+    border-color: gray;
+}
+#input6{
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 120px;
+    border-radius: 12%;
+    border-color: gray;
+}
+.slect {
+    width: 75px;
+    background-color: rgb(172, 172, 172);
+    align-items: stretch;
+}
+button{
+    width: 100px;
+    border-radius: 13%;
+    border-style: none;
+    background-color: palevioletred;
+}
+a {
+    color: white;
+}
+}
